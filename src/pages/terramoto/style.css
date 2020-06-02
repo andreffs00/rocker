@@ -1,0 +1,24 @@
+.detalhe{
+    grid-column: span 3;
+}
+
+main#terramoto a{
+    grid-column: span 3;
+    background-color: white;
+    padding: .4rem;
+    border-radius: 1rem;
+    line-height: 2rem;
+    box-shadow: 0 0 0pt 2.5pt #844A1B;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+}
+
+
+.btn-home{
+    color: #844A1B;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+

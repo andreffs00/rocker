@@ -1,0 +1,16 @@
+.terramoto{
+    background-color: white;
+    text-align: center;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    line-height: 2rem;
+    box-shadow: 0 0 0pt 2.5pt #844A1B;
+
+margin-left: 2rem;
+margin-right: 2rem;
+margin-bottom: 2rem;
+}
+
+.info h2{
+    color: #844A1B;
+}
